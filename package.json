@@ -1,0 +1,26 @@
+{
+  "name": "@moh-tayyab0342/oop-project",
+  "version": "1.5.0",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Tayyab",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+  
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+  
+    "@types/inquirer": "^9.0.7"
+  }
+}
